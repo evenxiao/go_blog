@@ -19,6 +19,12 @@ func init()  {
 
 }
 func (c *MainController) Get() {
+	//设置session数据
+	user := make(map[string]string)
+	user["name"]  = "xiaowen"
+	user["phone"]  = "13761463130"
+	c.SetSession("user", user)
+
 	c.Data["Website"] = "beego.me"
 	c.Data["Email"] = "astaxie@gmail.com"
 	webInfo := make(map[string]string)
@@ -39,8 +45,11 @@ func (c *MainController) Post() {
 }
 
 func (c *MainController) Welcome(){
+	c.Data["s_user"] = c.GetSession("user")
+
 	c.TplName = "welcome.html"
 }
 func (c *MainController) Login(){
+	c.Data["s_user"] = c.GetSession("user")
 	c.TplName = "login.html"
 }
