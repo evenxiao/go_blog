@@ -1,0 +1,291 @@
+2019/04/09 17:31:08.230 [I] [value.go:447]  1111
+2019/04/09 17:31:08.232 [I] [value.go:447]  session uid : 2
+2019/04/09 17:35:09.161 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:35:09.161 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:35:09.936 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:35:09.937 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:35:20.013 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:35:20.013 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:35:24.900 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:35:24.900 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:35:25.194 [C] [panic.go:522]  the request url is  /
+2019/04/09 17:35:25.197 [C] [panic.go:522]  Handler crashed with error interface conversion: interface {} is nil, not int
+2019/04/09 17:35:25.198 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/09 17:35:25.199 [C] [panic.go:522]  D:/Go/src/runtime/iface.go:248
+2019/04/09 17:35:25.200 [C] [panic.go:522]  D:/go_www/src/go_blog/routers/router.go:16
+2019/04/09 17:35:25.200 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:645
+2019/04/09 17:35:25.201 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:731
+2019/04/09 17:35:25.201 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/09 17:35:25.201 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/09 17:35:25.202 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/09 17:35:25.203 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/09 17:36:40.211 [C] [panic.go:522]  the request url is  /
+2019/04/09 17:36:40.212 [C] [panic.go:522]  Handler crashed with error interface conversion: interface {} is nil, not int
+2019/04/09 17:36:40.213 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/09 17:36:40.214 [C] [panic.go:522]  D:/Go/src/runtime/iface.go:248
+2019/04/09 17:36:40.215 [C] [panic.go:522]  D:/go_www/src/go_blog/routers/router.go:16
+2019/04/09 17:36:40.216 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:645
+2019/04/09 17:36:40.217 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:731
+2019/04/09 17:36:40.217 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/09 17:36:40.218 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/09 17:36:40.218 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/09 17:36:40.219 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/09 17:36:41.086 [C] [panic.go:522]  the request url is  /
+2019/04/09 17:36:41.087 [C] [panic.go:522]  Handler crashed with error interface conversion: interface {} is nil, not int
+2019/04/09 17:36:41.090 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/09 17:36:41.091 [C] [panic.go:522]  D:/Go/src/runtime/iface.go:248
+2019/04/09 17:36:41.092 [C] [panic.go:522]  D:/go_www/src/go_blog/routers/router.go:16
+2019/04/09 17:36:41.092 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:645
+2019/04/09 17:36:41.093 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:731
+2019/04/09 17:36:41.093 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/09 17:36:41.094 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/09 17:36:41.094 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/09 17:36:41.095 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/09 17:36:42.262 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:36:42.262 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:36:42.355 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:36:42.370 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:36:42.575 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:36:42.755 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:36:43.806 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:36:56.090 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:36:56.093 [I] [value.go:447]  1111
+2019/04/09 17:36:56.093 [I] [value.go:447]  session uid : 2
+2019/04/09 17:36:56.100 [I] [router.go:645]  用户id : 2
+2019/04/09 17:36:56.134 [I] [router.go:645]  用户id : 2
+2019/04/09 17:37:02.449 [I] [router.go:645]  用户id : 2
+2019/04/09 17:37:02.485 [I] [router.go:645]  用户id : 2
+2019/04/09 17:37:09.042 [I] [router.go:645]  用户id : 2
+2019/04/09 17:37:12.313 [I] [router.go:645]  用户id : 2
+2019/04/09 17:37:12.351 [I] [router.go:645]  用户id : 2
+2019/04/09 17:37:12.956 [I] [router.go:645]  用户id : 2
+2019/04/09 17:37:12.991 [I] [router.go:645]  用户id : 2
+2019/04/09 17:37:36.578 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:37:36.578 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:37:40.881 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.885 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.892 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.903 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.908 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.913 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.919 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.932 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.939 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.944 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.947 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.954 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.961 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.965 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.968 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.973 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.976 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.979 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.984 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:40.987 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.341 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.347 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.353 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.361 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.367 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.373 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.379 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.384 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.390 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.397 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.405 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.410 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.416 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.427 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.432 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.437 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.442 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.446 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.451 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:41.457 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.236 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.247 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.260 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.266 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.275 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.281 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.295 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.303 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.311 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.316 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.321 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.326 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.331 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.337 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.344 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.348 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.354 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.357 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.361 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.364 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.884 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.897 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.905 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.909 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.913 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.921 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.926 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.930 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.938 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.946 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.952 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.959 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.965 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.974 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.979 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.984 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.990 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:43.997 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:44.001 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:44.008 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.063 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.070 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.078 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.082 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.090 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.094 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.099 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.109 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.118 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.125 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.131 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.138 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.144 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.148 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.151 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.158 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.162 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.167 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.171 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:49.176 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:58.978 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:58.988 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:58.994 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:58.999 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.008 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.014 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.019 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.027 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.032 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.039 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.045 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.051 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.057 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.061 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.065 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.071 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.077 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.081 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.086 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:37:59.092 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.010 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.018 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.025 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.028 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.035 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.041 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.046 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.050 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.059 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.066 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.074 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.080 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.085 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.092 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.096 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.101 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.106 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.110 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.113 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.121 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.561 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.569 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.576 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.580 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.585 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.592 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.598 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.602 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.611 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.617 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.626 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.630 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:01.636 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:02.238 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:38:02.238 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:38:14.617 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:30.229 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:38:30.230 [I] [value.go:447]  1111
+2019/04/09 17:38:30.231 [I] [value.go:447]  session uid : 2
+2019/04/09 17:38:30.241 [I] [router.go:645]  用户id : 2
+2019/04/09 17:38:30.281 [I] [router.go:645]  用户id : 2
+2019/04/09 17:38:34.135 [I] [router.go:645]  用户id : 2
+2019/04/09 17:38:34.538 [I] [router.go:645]  用户id : 2
+2019/04/09 17:38:37.116 [I] [router.go:645]  用户id : 2
+2019/04/09 17:38:41.157 [I] [router.go:645]  用户id : 2
+2019/04/09 17:38:45.408 [I] [router.go:645]  用户id : 2
+2019/04/09 17:38:50.448 [I] [router.go:645]  用户id : 2
+2019/04/09 17:38:55.881 [I] [router.go:645]  用户id : 2
+2019/04/09 17:38:55.902 [I] [router.go:645]  用户id : 2
+2019/04/09 17:46:59.217 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:46:59.217 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:48:01.907 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:48:01.907 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:48:02.861 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:48:02.861 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:48:13.242 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:48:13.242 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:48:33.508 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:48:33.513 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:48:41.690 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:48:41.692 [I] [value.go:447]  1111
+2019/04/09 17:48:41.692 [I] [value.go:447]  session uid : 2
+2019/04/09 17:48:41.696 [I] [router.go:645]  用户id : 2
+2019/04/09 17:48:41.729 [I] [router.go:645]  用户id : 2
+2019/04/09 17:48:41.833 [I] [router.go:645]  用户id : 2
+2019/04/09 17:48:41.843 [I] [router.go:645]  用户id : 2
+2019/04/09 17:48:51.812 [I] [router.go:645]  用户id : 2
+2019/04/09 17:48:51.876 [I] [router.go:645]  用户id : 2
+2019/04/09 17:48:55.461 [I] [router.go:645]  用户id : 2
+2019/04/09 17:48:55.496 [I] [router.go:645]  用户id : 2
+2019/04/09 17:48:55.970 [I] [router.go:645]  用户id : 2
+2019/04/09 17:48:56.002 [I] [router.go:645]  用户id : 2
+2019/04/09 17:50:02.187 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 17:50:02.187 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 17:50:33.146 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:50:33.155 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:50:48.699 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:50:48.701 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:50:53.160 [I] [router.go:645]  用户id : <nil>
+2019/04/09 17:50:53.161 [I] [value.go:447]  1111
+2019/04/09 17:50:53.162 [I] [value.go:447]  session uid : 2
+2019/04/09 17:50:53.167 [I] [router.go:645]  用户id : 2
+2019/04/09 17:50:53.200 [I] [router.go:645]  用户id : 2
+2019/04/09 17:50:56.815 [I] [router.go:645]  用户id : 2
+2019/04/09 17:50:56.852 [I] [router.go:645]  用户id : 2
+2019/04/09 17:51:02.228 [I] [router.go:645]  用户id : 2
+2019/04/09 17:51:02.233 [I] [router.go:645]  用户id : 0
+2019/04/09 17:51:04.781 [I] [router.go:645]  用户id : 0
+2019/04/09 17:51:04.783 [I] [router.go:645]  用户id : 0
+2019/04/09 18:15:18.458 [I] [router.go:645]  用户id : 0
+2019/04/09 18:15:21.641 [I] [router.go:645]  用户id : 0
+2019/04/09 18:15:21.646 [I] [router.go:645]  用户id : 0
+2019/04/09 18:15:27.992 [I] [router.go:645]  用户id : 0
+2019/04/09 18:15:27.995 [I] [value.go:447]  1111
+2019/04/09 18:15:27.995 [I] [value.go:447]  session uid : 2
+2019/04/09 18:15:28.000 [I] [router.go:645]  用户id : 2
+2019/04/09 18:15:28.034 [I] [router.go:645]  用户id : 2
+2019/04/09 18:15:30.214 [I] [router.go:645]  用户id : 2
+2019/04/09 18:15:30.264 [I] [router.go:645]  用户id : 2
+2019/04/09 18:15:30.412 [I] [router.go:645]  用户id : 2
+2019/04/09 18:15:30.446 [I] [router.go:645]  用户id : 2
+2019/04/09 20:05:04.000 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 20:05:04.000 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 20:20:02.092 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 20:20:02.092 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/09 20:20:02.638 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/09 20:20:02.639 [I] [asm_amd64.s:1337]  Admin server Running on :8088

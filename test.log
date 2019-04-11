@@ -1,0 +1,355 @@
+2019/04/11 15:12:26.415 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 15:12:26.415 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:12:15.916 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:12:15.916 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:12:36.667 [I] [router.go:645]  用户id : <nil>
+2019/04/11 16:12:36.675 [I] [router.go:645]  用户id : <nil>
+2019/04/11 16:12:37.049 [I] [router.go:645]  用户id : <nil>
+2019/04/11 16:12:37.051 [I] [router.go:645]  用户id : <nil>
+2019/04/11 16:36:30.505 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:36:30.505 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:36:31.411 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:36:31.411 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:36:32.312 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:36:32.312 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:36:33.443 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:36:33.443 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:36:34.371 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:36:34.371 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:36:35.336 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:36:35.336 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:37:39.082 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:37:39.082 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:37:58.374 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:37:58.374 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:38:11.981 [I] [router.go:645]  用户id : <nil>
+2019/04/11 16:38:12.091 [I] [router.go:645]  用户id : <nil>
+2019/04/11 16:38:12.095 [I] [router.go:645]  用户id : <nil>
+2019/04/11 16:38:19.517 [I] [router.go:645]  用户id : <nil>
+2019/04/11 16:38:19.517 [I] [value.go:447]  1111
+2019/04/11 16:38:19.518 [I] [value.go:447]  session uid : 2
+2019/04/11 16:38:19.521 [I] [router.go:645]  用户id : 2
+2019/04/11 16:38:19.583 [I] [router.go:645]  用户id : 2
+2019/04/11 16:38:19.760 [I] [router.go:645]  用户id : 2
+2019/04/11 16:38:33.417 [I] [router.go:645]  用户id : 2
+2019/04/11 16:38:33.473 [I] [router.go:645]  用户id : 2
+2019/04/11 16:38:36.618 [I] [router.go:645]  用户id : 2
+2019/04/11 16:38:36.623 [I] [router.go:645]  用户id : 0
+2019/04/11 16:38:38.486 [I] [router.go:645]  用户id : 0
+2019/04/11 16:38:38.493 [I] [router.go:645]  用户id : 0
+2019/04/11 16:38:42.810 [I] [router.go:645]  用户id : 0
+2019/04/11 16:38:42.812 [I] [value.go:447]  1111
+2019/04/11 16:38:42.812 [I] [value.go:447]  session uid : 2
+2019/04/11 16:38:42.816 [I] [router.go:645]  用户id : 2
+2019/04/11 16:38:42.852 [I] [router.go:645]  用户id : 2
+2019/04/11 16:42:22.361 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:42:22.361 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:42:23.294 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:42:23.294 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 16:42:27.253 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 16:42:27.253 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:01:37.832 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:01:37.832 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:02:37.090 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:02:37.090 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:02:42.281 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:02:42.281 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:03:00.697 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:03:00.697 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:05:49.124 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:05:49.124 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:07:30.560 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:07:30.560 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:12:08.007 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:12:08.007 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:25:26.667 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:25:26.667 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:25:27.530 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:25:27.530 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:29:04.220 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:29:04.220 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:33:22.366 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:33:22.366 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:33:23.307 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:33:23.307 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:33:24.272 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:33:24.272 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 17:33:29.864 [I] [router.go:645]  用户id : <nil>
+2019/04/11 17:33:29.869 [I] [router.go:645]  用户id : <nil>
+2019/04/11 17:33:34.665 [I] [router.go:645]  用户id : <nil>
+2019/04/11 17:33:34.666 [I] [value.go:447]  1111
+2019/04/11 17:33:34.667 [I] [value.go:447]  session uid : 2
+2019/04/11 17:33:34.672 [I] [router.go:645]  用户id : 2
+2019/04/11 17:33:34.673 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:33:34.674 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:33:34.675 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:33:34.675 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:33:34.675 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:33:34.676 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:33:34.676 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:33:34.676 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:33:34.678 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:33:34.679 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:33:34.679 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:33:34.679 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:28.013 [I] [router.go:645]  用户id : 2
+2019/04/11 17:34:28.014 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:34:28.014 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:34:28.014 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:34:28.015 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:34:28.015 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:34:28.015 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:34:28.016 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:34:28.016 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:34:28.016 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:34:28.017 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:34:28.017 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:34:28.017 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:28.895 [I] [router.go:645]  用户id : 2
+2019/04/11 17:34:28.895 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:34:28.897 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:34:28.898 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:34:28.898 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:34:28.899 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:34:28.899 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:34:28.899 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:34:28.900 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:34:28.900 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:34:28.900 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:34:28.901 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:34:28.901 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:29.406 [I] [router.go:645]  用户id : 2
+2019/04/11 17:34:29.406 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:34:29.407 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:34:29.407 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:34:29.408 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:34:29.409 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:34:29.410 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:34:29.410 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:34:29.412 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:34:29.412 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:34:29.413 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:34:29.414 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:34:29.415 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:29.590 [I] [router.go:645]  用户id : 2
+2019/04/11 17:34:29.600 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:34:29.601 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:34:29.601 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:34:29.602 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:34:29.602 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:34:29.602 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:34:29.603 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:34:29.603 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:34:29.603 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:34:29.604 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:34:29.604 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:34:29.605 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:29.774 [I] [router.go:645]  用户id : 2
+2019/04/11 17:34:29.775 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:34:29.775 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:34:29.775 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:34:29.775 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:34:29.776 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:34:29.776 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:34:29.776 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:34:29.776 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:34:29.776 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:34:29.776 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:34:29.776 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:34:29.777 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:29.951 [I] [router.go:645]  用户id : 2
+2019/04/11 17:34:29.952 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:34:29.952 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:34:29.952 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:34:29.952 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:34:29.952 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:34:29.952 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:34:29.952 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:34:29.952 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:34:29.952 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:34:29.953 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:34:29.953 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:34:29.953 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:30.132 [I] [router.go:645]  用户id : 2
+2019/04/11 17:34:30.132 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:34:30.132 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:34:30.132 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:34:30.132 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:34:30.132 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:34:30.132 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:34:30.133 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:34:30.133 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:34:30.133 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:34:30.133 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:34:30.133 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:34:30.133 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:30.312 [I] [router.go:645]  用户id : 2
+2019/04/11 17:34:30.312 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:34:30.312 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:34:30.312 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:34:30.312 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:34:30.313 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:34:30.313 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:34:30.313 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:34:30.313 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:34:30.313 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:34:30.313 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:34:30.313 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:34:30.313 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:30.490 [I] [router.go:645]  用户id : 2
+2019/04/11 17:34:30.491 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:34:30.491 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:34:30.491 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:34:30.491 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:34:30.491 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:34:30.491 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:34:30.491 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:34:30.492 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:34:30.492 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:34:30.492 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:34:30.492 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:34:30.492 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:30.703 [I] [router.go:645]  用户id : 2
+2019/04/11 17:34:30.704 [C] [panic.go:522]  the request url is  /
+2019/04/11 17:34:30.704 [C] [panic.go:522]  Handler crashed with error <Ormer> table: `.` not found, make sure it was registered with `RegisterModel()`
+2019/04/11 17:34:30.704 [C] [panic.go:522]  D:/Go/src/runtime/panic.go:522
+2019/04/11 17:34:30.704 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:113
+2019/04/11 17:34:30.704 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/orm/orm.go:162
+2019/04/11 17:34:30.704 [C] [panic.go:522]  D:/go_www/src/go_blog/models/user.go:29
+2019/04/11 17:34:30.704 [C] [panic.go:522]  D:/go_www/src/go_blog/controllers/default.go:30
+2019/04/11 17:34:30.704 [C] [panic.go:522]  D:/go_www/src/github.com/astaxie/beego/router.go:834
+2019/04/11 17:34:30.705 [C] [panic.go:522]  D:/Go/src/net/http/server.go:2774
+2019/04/11 17:34:30.705 [C] [panic.go:522]  D:/Go/src/net/http/server.go:1878
+2019/04/11 17:34:30.705 [C] [panic.go:522]  D:/Go/src/runtime/asm_amd64.s:1337
+2019/04/11 17:34:30.705 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/04/11 17:34:31.920 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 17:34:31.920 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 18:06:21.646 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 18:06:21.646 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 18:07:19.893 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 18:07:19.893 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 18:07:23.390 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:07:23.397 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:07:28.590 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:07:28.591 [I] [value.go:447]  1111
+2019/04/11 18:07:28.591 [I] [value.go:447]  session uid : 2
+2019/04/11 18:07:28.595 [I] [router.go:645]  用户id : 2
+2019/04/11 18:07:28.696 [E] [default.go:30]  生成用户失败 Error 1146: Table 'oil.user' doesn't exist
+2019/04/11 18:07:28.697 [I] [router.go:834]  user last id: 0
+2019/04/11 18:07:28.733 [I] [router.go:645]  用户id : 2
+2019/04/11 18:11:43.912 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 18:11:43.912 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 18:11:44.810 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 18:11:44.810 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 18:11:55.015 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:11:55.019 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:12:00.279 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:12:00.279 [I] [value.go:447]  1111
+2019/04/11 18:12:00.279 [I] [value.go:447]  session uid : 2
+2019/04/11 18:12:00.283 [I] [router.go:645]  用户id : 2
+2019/04/11 18:12:00.285 [E] [default.go:30]  生成用户失败 Error 1146: Table 'oil.user' doesn't exist
+2019/04/11 18:12:00.285 [I] [router.go:834]  user last id: 0
+2019/04/11 18:12:00.329 [I] [router.go:645]  用户id : 2
+2019/04/11 18:55:24.830 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 18:55:24.830 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 18:55:32.637 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:55:32.644 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:55:36.782 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:55:36.783 [I] [value.go:447]  1111
+2019/04/11 18:55:36.783 [I] [value.go:447]  session uid : 2
+2019/04/11 18:55:36.788 [I] [router.go:645]  用户id : 2
+2019/04/11 18:55:36.905 [I] [default.go:30]  生成用户id: 32956
+2019/04/11 18:55:36.906 [I] [router.go:834]  user last id: 32956
+2019/04/11 18:55:36.953 [I] [router.go:645]  用户id : 2
+2019/04/11 18:57:31.475 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 18:57:31.475 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 18:58:06.485 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 18:58:06.485 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 18:58:12.373 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:58:12.378 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:58:16.921 [I] [router.go:645]  用户id : <nil>
+2019/04/11 18:58:16.923 [I] [value.go:447]  1111
+2019/04/11 18:58:16.923 [I] [value.go:447]  session uid : 2
+2019/04/11 18:58:16.930 [I] [router.go:645]  用户id : 2
+2019/04/11 18:58:17.036 [I] [default.go:30]  生成用户id: 32957
+2019/04/11 18:58:17.037 [I] [router.go:834]  user last id: 32957
+2019/04/11 18:58:17.069 [I] [router.go:645]  用户id : 2
+2019/04/11 18:59:01.084 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 18:59:01.084 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 19:09:06.458 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 19:09:06.458 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 19:09:27.747 [I] [router.go:645]  用户id : <nil>
+2019/04/11 19:09:27.752 [I] [router.go:645]  用户id : <nil>
+2019/04/11 19:09:30.665 [I] [router.go:645]  用户id : <nil>
+2019/04/11 19:09:30.665 [I] [value.go:447]  1111
+2019/04/11 19:09:30.666 [I] [value.go:447]  session uid : 2
+2019/04/11 19:09:30.669 [I] [router.go:645]  用户id : 2
+2019/04/11 19:09:30.748 [I] [default.go:32]  生成用户id: 32958
+2019/04/11 19:09:30.749 [I] [router.go:834]  user last id: 32958
+2019/04/11 19:09:30.800 [I] [router.go:645]  用户id : 2
+2019/04/11 19:20:57.302 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 19:20:57.302 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 19:24:20.332 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 19:24:20.332 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 19:24:21.207 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 19:24:21.207 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 19:24:27.967 [I] [router.go:645]  用户id : <nil>
+2019/04/11 19:24:27.971 [I] [router.go:645]  用户id : <nil>
+2019/04/11 19:24:34.071 [I] [router.go:645]  用户id : <nil>
+2019/04/11 19:24:34.072 [I] [value.go:447]  1111
+2019/04/11 19:24:34.072 [I] [value.go:447]  session uid : 2
+2019/04/11 19:24:34.077 [I] [router.go:645]  用户id : 2
+2019/04/11 19:24:34.139 [I] [default.go:32]  生成用户id: 32959
+2019/04/11 19:24:34.139 [I] [router.go:834]  user last id: 32959
+2019/04/11 19:24:34.163 [I] [router.go:645]  用户id : 2
+2019/04/11 19:24:37.131 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:21.352 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:25.111 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:25.649 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:26.001 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:26.191 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:26.370 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:26.556 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:26.738 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:26.915 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:27.102 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:27.295 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:27.486 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:27.686 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:28.075 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:28.300 [I] [router.go:645]  用户id : 2
+2019/04/11 19:25:28.759 [I] [router.go:645]  用户id : 2
+2019/04/11 19:46:46.996 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 19:46:46.996 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 19:50:54.863 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 19:50:54.863 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2019/04/11 19:51:02.468 [I] [router.go:645]  用户id : <nil>
+2019/04/11 19:51:02.471 [I] [router.go:645]  用户id : <nil>
+2019/04/11 19:51:06.431 [I] [router.go:645]  用户id : <nil>
+2019/04/11 19:51:06.438 [I] [value.go:447]  1111
+2019/04/11 19:51:06.439 [I] [value.go:447]  session uid : 2
+2019/04/11 19:51:06.447 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:06.514 [I] [default.go:32]  生成用户id: 32960
+2019/04/11 19:51:06.515 [I] [router.go:834]  user last id: 32960
+2019/04/11 19:51:06.551 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:11.064 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:12.857 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:13.493 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:13.685 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:13.862 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:14.041 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:14.223 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:14.415 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:14.615 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:14.827 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:14.981 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:18.810 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:19.302 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:19.649 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:19.858 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:20.052 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:20.242 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:20.441 [I] [router.go:645]  用户id : 2
+2019/04/11 19:51:20.666 [I] [router.go:645]  用户id : 2
+2019/04/11 19:52:04.743 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/04/11 19:52:04.743 [I] [asm_amd64.s:1337]  Admin server Running on :8088
