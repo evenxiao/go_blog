@@ -80,6 +80,7 @@ func (c *MainController) Login(){
 		//c.ServeJSON()
 		c.Redirect("/", 302)
 	}
+	c.Data["s_user"] = c.GetSession("user")
 	c.TplName = "login.html"
 }
 
