@@ -31,6 +31,9 @@ func init() {
     beego.Router("/login", &controllers.MainController{}, "get,post:Login")
     beego.Router("/loginOut", &controllers.MainController{}, "get,post:LoginOut")
     beego.Router("/test", &controllers.MainController{}, "get,post:Test")
+    beego.Router("/dealer", &controllers.MainController{}, "get,post:GetDealerInfo")
+    beego.Router("/rpcUser", &controllers.MainController{}, "get,post:GetUserInfo")
+    beego.Router("/say", &controllers.MainController{}, "get,post:Say")
 
     beego.InsertFilter("/*", beego.BeforeRouter,FilterUser)
 }
